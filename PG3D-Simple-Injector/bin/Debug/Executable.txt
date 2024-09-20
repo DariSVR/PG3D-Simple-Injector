@@ -1,0 +1,9 @@
+The following .exe file is 
+the compiled version of the 
+code provided, therefore if 
+you run it it will look for 
+a file called Test.dll within 
+the same path where the injector 
+was executed and if it finds it,
+it will open the video game 
+Pixel Gun 3D to later inject the DLL.
